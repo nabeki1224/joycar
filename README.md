@@ -6,6 +6,7 @@
 ## Stack Overview
 - Ruby on Rails 8.0.3
 - Ruby 3.4.3
+- PostgreSql 17.4
 
 ## Development Roadmap
 - [ ] Setup PostgreSQL DB
