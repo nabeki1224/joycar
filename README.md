@@ -9,6 +9,6 @@
 - PostgreSql 17.4
 
 ## Development Roadmap
-- [ ] Setup PostgreSQL DB
+- [x] Setup PostgreSQL DB
 - [ ] Only erb
 - [ ] Replace with Vue
